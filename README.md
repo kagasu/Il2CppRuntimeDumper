@@ -9,7 +9,8 @@ It is based on Zygisk-Il2CppDumper and restructured to work in Windows.
 3. Rename `Il2CppRuntimeDumper.dll` to `version.dll`.
 4. Place `version.dll` in the same folder as `GAME.exe`.
 5. Run game.
-6. Check `C:\dump.txt`
+6. Check `C:\dump.cs`
 
 ### Original Code
-- https://github.com/Perfare/Zygisk-Il2CppDumper
+- [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
+
