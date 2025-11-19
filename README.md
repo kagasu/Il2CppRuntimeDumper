@@ -3,7 +3,7 @@ Il2CppRuntimeDumper is a tool designed to extract metadata, method information, 
 from a running Unity (IL2CPP) application.
 It is based on Zygisk-Il2CppDumper and restructured to work in Windows.
 
-# How to Use
+### How to Use
 1. Clone this repository.
 2. Build the project.
 3. Rename `Il2CppRuntimeDumper.dll` to `version.dll`.
@@ -11,5 +11,5 @@ It is based on Zygisk-Il2CppDumper and restructured to work in Windows.
 5. Run game.
 6. Check `C:\dump.txt`
 
-# Original Code
+### Original Code
 - https://github.com/Perfare/Zygisk-Il2CppDumper
