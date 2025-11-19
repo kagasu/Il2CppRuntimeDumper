@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Il2CppRuntimeDumper/Il2CppRuntimeDumper.vcxproj" Id="2f87f51e-bcbf-482c-b13b-89e50d310578" />
+</Solution>
