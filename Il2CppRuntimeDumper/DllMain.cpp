@@ -317,6 +317,9 @@ void MainThread() {
         Sleep(1000);
     }
 
+    // for stability
+    Sleep(5000); 
+
 	auto hModule = reinterpret_cast<HMODULE>(GameAssemblyBaseAddress);
 
     Il2CppApi::Instance().Initialize(hModule);
